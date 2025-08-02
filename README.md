@@ -95,10 +95,31 @@
 ---
 
 <div align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ajinkya-A3&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" /></p>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Ajinkya-A3&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=Ajinkya-A3&show_icons=true&locale=en&layout=compact&theme=default&hide_border=true"
+      alt="Top Langs"
+      align="left"
+    />
+  </picture>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ajinkya-A3&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=Ajinkya-A3&show_icons=true&locale=en&theme=dark&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=Ajinkya-A3&show_icons=true&locale=en&theme=default&hide_border=true"
+      alt="GitHub Stats"
+      align="center"
+    />
+  </picture>
 </div>
+
 
 ---
 <!--
