@@ -20,7 +20,7 @@
 ---
 
 <p align="center">
-<img align="center" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="center" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bnZhejc5M2lldHptMGlxYWV5czR6dnl5NXAxYXNjNGJzenp4N2pibyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5GuExKmluBdrrtAFwk/giphy.gif">
 </p>
 
 ---
