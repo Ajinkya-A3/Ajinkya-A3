@@ -1,4 +1,4 @@
-<h1 align="center">Yoo I'm Ajinkya</h1>
+<h1 align="center">Hey I'm Ajinkya</h1>
 
 
 
