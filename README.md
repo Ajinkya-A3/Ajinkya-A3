@@ -1,8 +1,8 @@
-<h1 align="center">Hey Everyone 👋, I'm Ajinkya</h1>
+<h1 align="center">Yoo I'm Ajinkya</h1>
 
 
 
-<h3 align="center">An Aspiring Cloud & DevOps Engineer.</h3>
+<h3 align="center">DevOps Engineer.</h3>
 
 <p align="center">
   <a href="https://github.com/Ajinkya-A3">
@@ -89,6 +89,10 @@
   <img src="https://skillicons.dev/icons?i=bash" height="40"  width="40" alt="bash logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40"  width="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="60" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cloudflare" height="60" alt="cloudflare logo"  />
 </div>
 
 
