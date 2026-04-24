@@ -3,8 +3,6 @@
 <h3 align="center">DevOps Engineer.</h3>
 
 <p align="center">
-  <a href="https://github.com/Ajinkya-A3">
-  </a>
   <a href="https://linkedin.com/in/ajinkyaa3">
     <img src="https://img.shields.io/badge/LinkedIn-Ajinkya%20Acharekar-blue?logo=linkedin&style=flat-square" />
   </a>
@@ -28,28 +26,14 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" width="40" alt="ansible" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="40" width="40" alt="argocd" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker" />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux" />
-  <img src="https://skillicons.dev/icons?i=prometheus" height="40" alt="prometheus" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" width="40" alt="terraform" />
-  <img src="https://skillicons.dev/icons?i=maven" height="40" alt="maven" />
-  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions" />
-  <img src="https://skillicons.dev/icons?i=grafana" height="40" alt="grafana" />
-  <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb" />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" width="40" alt="npm" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="gcp" />
-  <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="cloudflare" />
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,gitlab,github,kubernetes,linux,prometheus,py,maven,githubactions,grafana,jenkins,mongodb,bash,gcp,cloudflare&perline=9" />
+  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="45" width="45" alt="ansible" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="45" width="45" alt="argocd" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="45" width="45" alt="terraform" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="45" width="45" alt="npm" />
+</p>
 
 ---
 
