@@ -1,6 +1,6 @@
 <h1 align="center">Hey I'm Ajinkya</h1>
 
-<h3 align="center">DevOps Engineer.</h3>
+<h3 align="center">Site Reliability Engineer.</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/ajinkyaa3">
